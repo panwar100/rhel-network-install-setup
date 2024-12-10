@@ -5,8 +5,8 @@ The rhel-network-install-setup guide provides essential information for managing
 # Table of Contents
 1.[Network Management Commands](#1-network-management-commands)
 - [Check Network Interfaces](#check-network-interfaces)
-- [View NetworkManager Connections](#view-networkmanger-connections)
-- [Manage Network Connections](#mange-network-connections)
+- [View NetworkManager Connections](#view-networkmanager-connections)
+- [Manage Network Connections](#manage-network-connections)
 - [Modify Connections](#modify-connections)
 - [Device Information](#device-information)
 
